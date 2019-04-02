@@ -6,6 +6,10 @@
           <option name="url" value="https://git.skyperry.com/caoanhhao/skyperry-system.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.skyperry.com/linhle/social-management.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\home\caoanhhao\www" />
